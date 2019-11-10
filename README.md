@@ -1,3 +1,3 @@
 # python_snippets
 
-收集整理Python语言中的pythonic写法
+收集整理Python语言中的pythonic写法，无特殊声明时默认都是Python3的写法
