@@ -1,1 +1,3 @@
 # python_snippets
+
+收集整理Python语言中的pythonic写法
